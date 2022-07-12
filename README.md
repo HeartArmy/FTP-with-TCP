@@ -1,6 +1,6 @@
  <b>Project One: File Transfer Protocol-Client-Server</b>
 
- <b>Done by: Muhammad Areeb (maa1150) and Mohammed Arham (maj596)</b>
+ <b>Done by: Mohammed Arham (maj596)</b>
 
 The program was written and compiled on Catalina Mac OS using GCC compiler. <b></b>
 
